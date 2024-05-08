@@ -1,11 +1,15 @@
 ---
-title: "pers_website"
+title: "Megan's Place"
 ---
 
-This is a Quarto website.
+![A picture of Megan in a 60L bin with the number 100 written in white pen](/Picture2.jpg)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: quote
+Sometime shit happens.
 
-```{r}
-1 + 1
-```
+Think like a dung beetle does,
+
+and just roll with it.
+:::
+
+# Hello world!

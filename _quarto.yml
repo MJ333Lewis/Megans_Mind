@@ -7,11 +7,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    tools:
+      - icon: github
+        menu: 
+          - text: Profile
+            href: https://github.com/meganjane333
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
