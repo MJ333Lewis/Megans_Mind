@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Megan's Place"
+  title: "Megan's Mind"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,7 @@ website:
         menu: 
           - text: GitHub Profile
             href: https://github.com/meganjane333
+
 
 format:
   html:
