@@ -4,12 +4,10 @@ title: "Megan's Place"
 
 ![A picture of Megan in a 60L bin with the number 100 written in white pen](/Picture2.jpg)
 
-::: quote
-Sometime shit happens.
-
-Think like a dung beetle does,
-
-and just roll with it.
-:::
+> *" Sometime shit happens.*
+>
+> *Think like a dung beetle does,*
+>
+> *and just roll with it. "*
 
 # Hello world!
