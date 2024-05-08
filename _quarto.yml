@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "pers_website"
@@ -12,7 +13,7 @@ website:
     tools:
       - icon: github
         menu: 
-          - text: Profile
+          - text: GitHub Profile
             href: https://github.com/meganjane333
 
 format:
