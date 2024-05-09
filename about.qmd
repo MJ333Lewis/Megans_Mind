@@ -2,7 +2,7 @@
 title: "Megan Jane Lewis"
 about:
   template: jolla
-  image: Picture2.jpg
+  image: Megan_Lewis.jpg
   links:
     - icon: twitter
       text: twitter
