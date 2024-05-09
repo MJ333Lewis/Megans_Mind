@@ -12,21 +12,16 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
+      - href: research_papers.qmd
+        text: Research papers
+      - href: plant_children.qmd
+        text: Plant children
     tools:
       - icon: github
         menu: 
           - text: GitHub Profile
             href: https://github.com/meganjane333
-  sidebar:
-    style: "docked"
-    background: light
-    contents: 
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: blog.qmd
-        text: Blog
+
 
 format:
   html:
