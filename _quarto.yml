@@ -18,6 +18,8 @@ website:
           - text: GitHub Profile
             href: https://github.com/meganjane333
   sidebar:
+    style: "docked"
+    background: light
     contents: 
       - href: index.qmd
         text: Home
