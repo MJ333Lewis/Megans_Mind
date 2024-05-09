@@ -18,7 +18,13 @@ website:
           - text: GitHub Profile
             href: https://github.com/meganjane333
   sidebar:
-  contents: auto
+    contents: 
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
