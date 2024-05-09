@@ -17,6 +17,8 @@ website:
         menu: 
           - text: GitHub Profile
             href: https://github.com/meganjane333
+  sidebar:
+  contents: auto
 
 format:
   html:
