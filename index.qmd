@@ -2,7 +2,7 @@
 title: "Megan's Mind"
 ---
 
-![A picture of Megan in a 60L bin with the number 100 written in white pen](/Picture2.jpg){width=40%, fig-align=left}
+![](/Picture2.jpg){width=40%, fig-align=left, fig-alt="A picture of Megan in a 60L bin with the number 100 written in white pen"}
 
 > *" Sometime shit happens.*
 >
