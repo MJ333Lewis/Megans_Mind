@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Megan’s Mind",
     "section": "",
-    "text": "BUILDING IN PROGRESS\n\n” Sometime shit happens.\nThink like a dung beetle does,\nand just roll with it. “"
+    "text": "BUILDING IN PROGRESS\n\n” Sometimes shit happens.\nThink like a dung beetle does,\nand just roll with it. “"
   },
   {
     "objectID": "about.html",
@@ -37,5 +37,12 @@
       "Home",
       "Blog"
     ]
+  },
+  {
+    "objectID": "docs/research_papers.html",
+    "href": "docs/research_papers.html",
+    "title": "Megan's Mind",
+    "section": "",
+    "text": "title: “Research Papers” listing: contents: posts type: default"
   }
 ]
